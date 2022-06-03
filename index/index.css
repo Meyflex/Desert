@@ -1,0 +1,214 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+    
+}
+.body{
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 21px;
+    line-height: 1.6;
+    background: #524937;
+    color: #fff;
+}
+
+h1, h2, h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 120px;
+    line-height: .8;
+}
+
+h2 {
+    font-size: 48px;
+    line-height: 1;
+}
+
+h2 span {
+    display: block;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover,
+a:focus {
+    color: #fff;
+}
+
+.text-accent {
+    color: #dc9846;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 0 2em;
+}
+
+.container1 {
+    
+    margin: 0 auto;
+    max-width: 1500px;
+    margin-top: 2rem;
+
+    text-align: center;
+    padding: 0 2em;
+    height: auto;
+    
+
+}
+
+
+.split {
+    display: flex;
+}
+
+.col {
+    margin: 0 3em;
+    width: 50%;
+    height: 100%;
+    position: relative;
+    
+
+}
+
+.btn {
+    display: inline-block;
+    padding: .5em 1.25em;
+    color: inherit;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #dc9846;
+}
+
+.btn:hover,
+.btn:focus {
+    background: #482200;
+}
+
+.hero {
+    text-align: left;
+    padding: 14rem 0 25rem;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/Qatar1.jpg);
+    background-size: cover;
+    background-position: bottom right;
+}
+
+header,
+section {
+    padding: 10rem 0;
+
+
+}
+
+.accent-bg3 {
+    background-color: #ffffff;
+    background-image: url(../img/fifa-world-cup.jpg);
+    text-align: center;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.accent-bg {
+    background-color: #dc9846;
+
+}
+
+.accent-bg .btn {
+    background-color: #fff;
+    color: #1A1E26;
+}
+
+.accent-bg .btn:hover {
+    background: #1A1E26;
+    color: #fff;
+}
+
+.extra-space {
+    margin-top: 10rem;
+}
+.extra-space1 {
+    margin-top: 0px;
+}
+
+.image1{
+    max-width:300px;
+    max-height: 170px;
+}
+.color-background{
+    background-color: #364652;
+}
+.white-bord{
+    background-color: #fff;
+
+}
+.image-merch{
+
+    max-width: 300px;
+    max-height: auto;
+}
+.hedi{
+    color:black;
+    text-align: center;
+}
+.hedi1{
+    color:rgb(101, 101, 101);
+    text-align: center;
+}
+.text {
+    color: white;
+  font-size: 17px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+
+
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #646464;
+  }
+  
+  .col:hover .overlay {
+    opacity: 1;
+  }
+  .accent-bg2 {
+    background-color: rgb(174, 174, 174);
+    
+}
