@@ -32,6 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/98128042/177796176-f8cdb0ed-50c1-4f08-ba6d-78e739c892c2.png)
 
+## Un apercu global du projet
+<div align="center">
+
+![2022-07-07_21-26-14_AdobeExpress (1)](https://user-images.githubusercontent.com/98128042/177856837-66446aef-2231-4015-91dc-740e9c50e343.gif)
+</div>
+
 * Ce project est fait afin  de s'ameliorer et maitriser le Html CSS, c est un site de 3 page HTML ou on trouve 2 pages d'information et une boutique des vetements des maillots de la coupe du monde 2022
 
 <p align="right">(<a href="#top">back to top</a>)</p>
