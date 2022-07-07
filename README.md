@@ -85,7 +85,7 @@ Utiliser la Template pour faire un site simple en HTML CSS.
 <!-- CONTACT -->
 ## Contact
 
-Mohamed Elmimegh - mohamed.elmdimegh@universite-paris-saclay.fr
+Mohamed Elmdimegh - mohamed.elmdimegh@universite-paris-saclay.fr
 
 Project Link: [https://github.com/Meyflex/Desert](https://github.com/Meyflex/Desert)
 
